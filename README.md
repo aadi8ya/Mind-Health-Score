@@ -1,5 +1,7 @@
 # 🧠 Mental Health Score Predictor
 
+[🚀 Live Demo Link](https://mind-health-score-1.onrender.com)
+
 An end-to-end **Machine Learning web application** that predicts a student's **Mental Health Score** based on lifestyle, academic, digital usage, and stress-related factors.
 
 ## 🚀 Features
